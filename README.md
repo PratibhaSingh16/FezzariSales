@@ -9,7 +9,7 @@ Bike Accessories Sales Analysis
 </h1>
 
 
-I used dataset [Bike_accessories_sales_dataset](https://www.kaggle.com/nivethithaamurugan/bike-accessories-sales-dataset) to perform this analysis using Python
+I used dataset [Bike_accessories_sales_dataset](https://raw.githubusercontent.com/PratibhaSingh16/FezzariSales/main/Fezzari%20Sales.csv) to perform this analysis using Python
 
 
 Importing dataset:
