@@ -454,6 +454,10 @@ plt.xlabel('State')
 plt.xticks(keys, rotation='vertical', size=10)
 plt.show()
 ```
+
+![](https://user-images.githubusercontent.com/77543839/118738645-80396080-b815-11eb-802c-37c43ecb9d51.png)
+
+
 Result
 
 *California is the most profitable state which comes under united states.So we can focus on California to expand*
