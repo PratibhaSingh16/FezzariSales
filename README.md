@@ -42,7 +42,7 @@ Customer Gender  |   3
 Country           |  1
 State              | 3
 Product Category   | 4
-Sub Category        3
+Sub Category       | 3
 Quantity           | 1
 Unit Cost         |  3
 Revenue            | 1
